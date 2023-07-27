@@ -1,2 +1,2 @@
-# canonical
+# Canonical
 Canonical Web Developer Task
